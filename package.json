@@ -1,0 +1,26 @@
+{
+  "name": "horimiya-dl",
+  "version": "1.0.0",
+  "description": "Horimiya Manga downloader",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasFleckenstein03/horimiya-dl.git"
+  },
+  "author": "EliasFleckenstein03",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/EliasFleckenstein03/horimiya-dl/issues"
+  },
+  "homepage": "https://github.com/EliasFleckenstein03/horimiya-dl#readme",
+  "dependencies": {
+    "cli-progress": "^3.10.0",
+    "download": "^8.0.0",
+    "pdfkit": "^0.13.0",
+    "sharp": "^0.30.3",
+    "unzipper": "^0.10.11"
+  }
+}
