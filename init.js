@@ -4,7 +4,6 @@ const download = require("download")
 const cliProgress = require("cli-progress")
 const unzipper = require("unzipper")
 const pdfkit = require("pdfkit")
-const sharp = require("sharp")
 
 const url = "http://images.mangafreak.net/downloads/Horimiya_"
 const chapters = 124

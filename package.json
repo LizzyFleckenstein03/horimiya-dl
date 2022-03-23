@@ -20,7 +20,6 @@
     "cli-progress": "^3.10.0",
     "download": "^8.0.0",
     "pdfkit": "^0.13.0",
-    "sharp": "^0.30.3",
     "unzipper": "^0.10.11"
   }
 }
